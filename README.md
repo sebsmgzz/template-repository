@@ -1,2 +1,3 @@
-# template
-Template repository from which to generate other
+# Template project
+
+Template repository from which to generate other.
